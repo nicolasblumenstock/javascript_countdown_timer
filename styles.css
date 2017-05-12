@@ -3,16 +3,11 @@ body{
 	background: url('https://www.tetongravity.com/imgcache.php?img=http%3A%2F%2Forig02.deviantart.net%2F6c35%2Ff%2F2009%2F214%2Fc%2Fc%2Fcalvin_and_hobbes_by_xx_pureness_xx.png') no-repeat center center fixed;
 	background-size: cover;
 	text-align: center;
+	font-family: 'Helvetica monospace', 'Courier', monospace;
 
 
 }
 
-h1 {
-	color: black;
-	font-size: 40px;
-	margin: 40px 0px 20px;
-	text-shadow: 1px 2px white;
-}
 
 #timer-div{
 	/*background-color: #00ecb9;*/
@@ -20,16 +15,27 @@ h1 {
 	color: white;
 	display: inline-block;
 	font-size: 30px;
+	text-shadow: black 0px 0px 1px, black 0px 0px 1px, black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px;
+
 }
 
 .time-unit, .time-unit > span{
 	padding: 10px;
 	border-radius: 3px;
-	background: #ea9138;
+	/*background: #ea9138;*/
 	display: inline-block;
+	background: transparent;
+	text-shadow: black 0px 0px 1px, black 0px 0px 1px, black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px;
+
 }
 
 .time-unit{
-	border: 2px solid black;
-	box-sizing: border-box;
+/*	border: 2px solid black;
+	box-sizing: border-box;*/
 }
+
+.outline {
+	color: white;
+	text-shadow: black 0px 0px 1px, black 0px 0px 1px, black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px,black 0px 0px 1px;
+/*	-webkit-font-smoothing: antialiased/*;
+*/}
